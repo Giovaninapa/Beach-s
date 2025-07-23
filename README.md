@@ -1,37 +1,30 @@
-<!DOCTYPE html>
-<html lang="pt">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Didio</title>
-  <link rel="stylesheet" href="style.css">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kavoon&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
-</head>
-<body>
-  <header>
-    <selectiom class="Logo">
-            <img src="./assets/logobp.png" alt="Design Money Card" width="150px">
+# 🌴 Mundo Beach
 
-    </selectiom>
-    <h1 style="font-family: kavoon;">MUNDO BEACH</h1>
-  </header>
+Site simples com links para documentos em PDF, com visual leve e tropical. Feito para facilitar o acesso a arquivos como escala e dicas.
 
-  <main>
-    <section class="card">
-    
-    </section>
+![Logo Mundo Beach](./assets/logobp.png)
 
-    <section class="links">
-      <h2 style="font-family: kavoon;">Documentos PDF</h2>
-      <a class="btn" href="./assets/Tips.pdf" target="_blank" style="font-family: kavoon;">TIPS</a>
-      <a class="btn" href="assets/Escala.pdf" target="_blank" style="font-family: kavoon;">ESCALA</a>
-    </section>
-  </main>
+## 📁 Funcionalidades
 
-  <footer>
-    <p style="font-family: kavoon;">Design exportado por Gio's</p>
-  </footer>
-</body>
-</html>
+- Exibição da logo e nome do projeto
+- Acesso rápido aos documentos em PDF:
+  - Tips.pdf
+  - Escala.pdf
+- Design estilizado com fontes do Google Fonts
+
+## 💻 Tecnologias
+
+- HTML5
+- CSS3 (arquivo `style.css`)
+- Google Fonts
+
+## 🖼️ Layout
+
+Fonte principal utilizada: **Kavoon**  
+Logo incluída via imagem local: `./assets/logobp.png`
+
+## 🚀 Como usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seuusuario/nomedorepositorio.git
