@@ -1,16 +1,17 @@
 # 🌴 Mundo Beach
 
-Site simples com links para documentos em PDF, com visual leve e tropical. Feito para facilitar o acesso a arquivos como escala e dicas.
+Site simples com links para documentos da empresa, com visual leve e tropical. Feito para facilitar o acesso a arquivos como escala e dicas.
 
 ![Logo Mundo Beach](./assets/logobp.png)
 
 ## 📁 Funcionalidades
 
 - Exibição da logo e nome do projeto
-- Acesso rápido aos documentos em PDF:
+- Acesso rápido :
   - Tips.pdf
   - Escala.pdf
-- Design estilizado com fontes do Google Fonts
+- Design estilizado com fontes do Google Fonts :
+- Kavoon
 
 ## 💻 Tecnologias
 
