@@ -1,6 +1,5 @@
 
 body {
-  font-family:
   margin: 0;
   padding: 0;
   background: #f2f2f2;
@@ -10,9 +9,11 @@ body {
 header {
   background: #f0f9e5;
   color: rgb(63, 69, 27);
-  padding: 20px;
+  padding: 10px;
   text-align: center;
+  padding-top: 20px;
 }
+
 
 main {
   padding: 20px;
@@ -21,17 +22,11 @@ main {
   align-items: center;
 }
 
-.card img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 8px;
-  margin-bottom: 20px;
-}
-
 .links {
   display: flex;
   flex-direction: column;
   gap: 10px;
+  text-align: center;
 }
 
 .btn {
@@ -46,7 +41,7 @@ main {
 }
 
 .btn:hover {
-  background: #145185;
+  background: rgb(83, 91, 36);
 }
 
 footer {
